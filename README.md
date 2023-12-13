@@ -7,5 +7,5 @@ Titanic competition to predict survived passangers. My competition score is 0.78
 <br>
 Used Tensorflow gradient boosted decision trees and xgboost for models. Xgboost model performs better and it is more tunable.
 <br>
--tfdf training acc : 0.9719
--xgboost training acc : 0.98
+- tfdf training acc : 0.9719
+- xgboost training acc : 0.98
